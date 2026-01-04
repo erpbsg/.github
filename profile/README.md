@@ -1,4 +1,4 @@
-# <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:334155&height=200&section=header&text=erpbsg&fontSize=80&fontColor=E91E63&desc=Building%20the%20Operating%20System%20for%20Wellbeing&descAlign=50&descAlignY=80" alt="header" /> </div>
+# <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:E91E63&height=250&section=header&text=erpbsg&fontSize=80&fontColor=ffffff&desc=Building%20the%20Operating%20System%20for%20Wellbeing&descAlign=50&descAlignY=60" alt="header" /> </div>
 
 <div align="center">
 
