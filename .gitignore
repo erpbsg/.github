@@ -1,0 +1,8 @@
+# local
+desktop.ini
+
+# Obsidian
+.obsidian
+
+# VSC
+*.code-worksapce
