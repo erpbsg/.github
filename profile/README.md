@@ -62,6 +62,8 @@ Para nosotros, **el código es arte**.
 
 <div align="center">
   <i>"Creamos cosas de las que la gente se enamora y quiere formar parte."</i>
-  <br>
+  <br><br>
   <b>¿Listo para construir el futuro del bienestar?</b>
+  <br>
+  <a href="mailto:core@erpbsg.com">core@erpbsg.com</a>
 </div>
