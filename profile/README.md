@@ -1,4 +1,6 @@
-# <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=E91E63&height=200&section=header&text=Building%20the%20Operating%20System%20for%20Wellbeing&fontSize=35&fontColor=ffffff&fontAlignY=40" alt="header" /> </div>
+<div align="center">
+  <img src="assets/header_bos.svg" alt="The Business Operating System for the Wellness Industry" width="100%" />
+</div>
 
 <div align="center">
 
